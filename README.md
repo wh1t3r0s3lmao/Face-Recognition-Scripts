@@ -1,5 +1,5 @@
-# Face-Recognition-Scripts
-Some face recognition projects that ive decided to share with the world (:
+Some Face Recognition Projects to Share with the World 🌐👤
+Hey there! I've got a couple of face recognition projects that I've decided to share with you. Enjoy exploring these projects! 😊
 
 How to use the scripts:
 --FACE_RECOG.PY-- 
